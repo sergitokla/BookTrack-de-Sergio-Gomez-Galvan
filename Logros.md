@@ -1,6 +1,6 @@
 # 🏆Logros en desafios
 
-Ranking de las personas que consiguieron cumplir los desafios mas rapido.
+Ranking de las personas que consiguieron cumplir los desafios más rápido.
 
 ## Ranking
 - 1º🥇 Sergio.

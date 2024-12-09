@@ -12,3 +12,12 @@ Este repositorio es un espacio colaborativo para registrarse y guardar tu inform
 - 📝Describir tus cambios en mensajes de commit.
 - 📝Usa el pull requests para sugerir cambios en los clubes.
 - 📝Ser respetuoso y educado en discusiones de los libros.
+ 
+
+## Funciones
+- 📝Registar libros leidos, pendientes y que se estan leyendo.
+- 🤝Creacion de clubes de lectura para discusiones entre los lectores.
+
+## 🤝¿Como puedes colaborar?
+1. Crea tu perfil en la carpeta `Usuarios`.
+2. Unete a un club en `ClubesDeLectura`.
