@@ -1,2 +1,0 @@
-# BookTrack-de-Sergio-Gomez
- 
